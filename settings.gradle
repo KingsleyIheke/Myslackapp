@@ -1,0 +1,2 @@
+rootProject.name='Myslackapp'
+include ':app'
